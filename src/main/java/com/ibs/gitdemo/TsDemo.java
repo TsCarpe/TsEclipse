@@ -15,6 +15,7 @@ public class TsDemo {
 		}
 		System.err.println("change by eclipse 1");
 		System.err.println("change by eclipse 2");
+		System.err.println("change by fufure_demo");
 	}
 
 }
